@@ -1,26 +1,47 @@
-<h1 align="center">Hi 👋, I'm Sudhakar Dasari</h1>
-<h3 align="center">Senior Software Engineer • iOS Developer • UI/UX Designer • Data Engineer • AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Sudhakar Dasari 👋</h1>
 
 <p align="center">
-Building Digital Public Infrastructure 🇮🇳 for Governments and Citizens
+  <b>Senior Software Engineer • iOS Engineer • Data Engineer • UI/UX Designer • AI Enthusiast</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Senior+iOS+Engineer;UI%2FUX+Designer;Data+Engineer+(dbt+%7C+SQL+%7C+Superset);AI+Powered+Developer;Building+Technology+for+Better+Cities" />
+Building Digital Public Infrastructure for Indian Cities 🇮🇳
+</p>
+
+<p align="center">
+  <a href="https://github.com/sudhakar-codes">
+    <img src="https://img.shields.io/badge/GitHub-sudhakar--codes-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/sudhakar-codes">
+    <img src="https://img.shields.io/badge/LinkedIn-sudhakar--codes-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://apps.apple.com/in/developer/janaagraha/id559705427?see-all=i-phone-apps">
+    <img src="https://img.shields.io/badge/App%20Store-Janaagraha-0D96F6?style=flat-square&logo=apple" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 📱 Senior Software Engineer at **Janaagraha**
-- 🏛 Building digital public infrastructure for Indian cities
-- 🍎 10+ years in Native iOS Development
-- 🎨 Passionate about UI/UX Design using Figma
-- 📊 Working on Data Engineering & Analytics
-- ☁️ Experience with AWS & Azure
-- 🤖 Exploring AI-powered Software Development
-- 🌱 Always learning new technologies
+I'm a **Senior Software Engineer at Janaagraha** with over **10 years of experience** building digital products that improve public services across India.
+
+Over the years my work has expanded beyond iOS development into **Data Engineering, Analytics, Cloud Architecture, UI/UX Design, AI-assisted development, and Product Engineering**.
+
+I enjoy solving complex engineering problems and building products that create real-world impact.
+
+---
+
+## 🚀 What I Work On
+
+- 📱 Native iOS Development (Swift, SwiftUI, UIKit)
+- 🎨 UI/UX Design (Figma)
+- 📊 Data Engineering (dbt, SQL, PostgreSQL)
+- 📈 Analytics Dashboards (Apache Superset)
+- ☁️ Cloud Platforms (AWS & Azure)
+- 🔥 Firebase, MongoDB & Redis
+- 🤖 AI-assisted Software Development
+- 🏛 GovTech & Civic Technology Platforms
 
 ---
 
@@ -29,97 +50,77 @@ Building Digital Public Infrastructure 🇮🇳 for Governments and Citizens
 ### Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=swift,apple,xcode,firebase"/>
+<img src="https://skillicons.dev/icons?i=swift,firebase" />
 </p>
 
 ### Backend & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,nodejs" />
 </p>
 
 ### Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </p>
 
 ### Design & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
 
 ---
 
-## 📈 Currently Working On
+## 🏛 Featured Work
 
-- 📊 dbt Data Warehouse
-- 📉 Apache Superset Dashboards
-- ☁️ Azure Migration
-- 📱 iOS Apps
-- 🤖 AI Development Workflows
+### 📊 Municipal Finance Analytics
 
----
+Designed and built scalable data pipelines, dbt models and analytics dashboards for India's Urban Local Bodies using PostgreSQL, dbt and Apache Superset.
 
-## 📱 Published Apps
+### 📱 Mobile Applications
 
-<p align="center">
-<a href="https://apps.apple.com/in/developer/janaagraha/id559705427?see-all=i-phone-apps">
-<img src="https://img.shields.io/badge/View%20My%20Apps-App%20Store-0D96F6?style=for-the-badge&logo=apple&logoColor=white"/>
-</a>
-</p>
+Designed and developed multiple production iOS applications for government departments and citizens.
+
+**View published apps**
+
+https://apps.apple.com/in/developer/janaagraha/id559705427?see-all=i-phone-apps
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently Exploring
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- AI Agents
+- Claude Code
+- ChatGPT
+- Analytics Engineering
+- Azure Cloud
+- System Design
+- Developer Productivity
 
 ---
 
-## 💻 Languages & Tools
+## 💡 Interests
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=swift,apple,firebase,postgres,mongodb,nodejs,express,redis,aws,azure,figma,git,github,vscode"/>
-
-</p>
+- Digital Public Infrastructure
+- Mobile Engineering
+- Data Engineering
+- Product Design
+- Artificial Intelligence
+- Civic Technology
 
 ---
 
-## 🌍 Connect
+## 🤝 Connect
 
-<p align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
+<p>
+<a href="https://github.com/sudhakar-codes">GitHub</a> •
+<a href="https://www.linkedin.com/in/sudhakar-codes">LinkedIn</a>
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge"/>
-
+<i>"Building technology that improves cities and people's everyday lives."</i>
 </p>
-
-> *Building technology that makes cities smarter and improves people's lives.*
